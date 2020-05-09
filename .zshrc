@@ -44,3 +44,6 @@ export PATH=$PATH:~/.composer/vendor/bin/
 
 # dotfiles
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+
+# python3
+alias python=/usr/local/bin/python3
